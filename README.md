@@ -1,4 +1,5 @@
-*This is an early release. Some features are not yet fully implemented.*
+This is a fork of `tliron/glsp` with a focus on reducing unnecessary
+dependencies.
 
 GLSP
 ====
